@@ -63,7 +63,8 @@ The output data of this project is a single .txt file that follows the principle
                 
                 UNIT OF MEASURE: N/A since the variables were previously normalized.
 
-				REFERENCE
+
+REFERENCE
 ---------
 
 For more details, please consult original reference below describing the purpose of the experiment and its original data set.
