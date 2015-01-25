@@ -15,6 +15,18 @@ The R script requires the [reshape2 package](http://cran.r-project.org/web/packa
 which can be downloaded from CRAN. The asumption is that the original data (*UCI HAR Dataset* folder) 
 and the R script are in the same directory.
 
+The steps for running the main script are the following:
+
+1. Download the data from the link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
+2. Extract the `"UCI HAR Dataset"` into your working directory
+
+3. Put the `"run_analysis.R"` script to your working directory
+
+4. Run `source("run_analysis.R")`
+
+Check out the working directory for the file `TidyData.txt`.
+
 You can read more about the data and the analysis in the [code book](CodeBook.md).
 
 References
