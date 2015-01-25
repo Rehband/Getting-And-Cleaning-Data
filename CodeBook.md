@@ -28,13 +28,12 @@ The output data of this project is a single .txt file that follows the principle
 
 **Subject**     INTEGER
 
-                Identifies one of the thirty subjects in the original experiment.
-                
-                1, 2, 3, ..., 30
-            
+                Identifies the subjects in this experiment.
+                Range from 1 to 30.
+               
 **Activity**    CHARACTER
 
-                Descriptive names for the six activities observed in the original experiment.
+                Represents descriptive name for one of the six activities performed by subjects.
                 
                 Walking
                 Walking Upstairs 
@@ -45,8 +44,8 @@ The output data of this project is a single .txt file that follows the principle
                 
 **Variable**    CHARACTER
 
-                Descriptive names for the sixty six variables selected for the tidy data set 
-                (variables that expose both Mean and Standard Deviation in original experiment).
+                Represents descriptive name for one of the sixty six variables selected for the tidy data set 
+                (Mean and Standard Deviation measurements from the original data set).
                 They are similar to:
                 
                 timeBodyAccelerometerMeanX
@@ -58,10 +57,9 @@ The output data of this project is a single .txt file that follows the principle
                 
 **Average**     NUMERIC
 
-                Floating value in [-1, 1] range representing the average value of 
-                one of the Variables above filtered by Subject and Activity.
-                
-                UNIT OF MEASURE: N/A since the variables were previously normalized.
+                Represents the average value of each measurement for each activity and each subject.
+                Range from -1 to 1.
+                UNIT OF MEASURE: N/A (the variables were previously normalized).
 
 
 REFERENCE
