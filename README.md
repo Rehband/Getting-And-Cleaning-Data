@@ -6,9 +6,8 @@ perform an analysis on the data set, and output a tidy data set.
 
 This file indicates **the various parts of the project:**
 
-* `CodeBook.md` - the code book, describing the variables in the tidy data set
-* `run_analysis.R` - the R script, to load the raw data, convert, and 
-create the tidy data from the raw data
+* `CodeBook.md` - the code book, describing the variables in the tidy data set and work performed to clean up the data
+* `run_analysis.R` - the R script, to load the raw data, convert, and create the tidy data from the raw data
 * `TidyData.txt` - the output of the R script
 
 The R script requires the [reshape2 package](http://cran.r-project.org/web/packages/reshape2/index.html), 
