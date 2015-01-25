@@ -21,7 +21,7 @@ The steps for running the main script are the following:
 
 2. Extract the `"UCI HAR Dataset"` into your working directory
 
-3. Put the `"run_analysis.R"` script to your working directory
+3. Add the `"run_analysis.R"` script to your working directory
 
 4. Run `source("run_analysis.R")`
 
