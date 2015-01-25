@@ -7,7 +7,7 @@ as well as the processing required to create the resulting tidy data set.
 The raw data in this project was collected from the accelerometers and gyroscopes in Samsung Galaxy S smartphones 
 while test subjects performed six activities (standing, sitting, walking, etc.)
 
-**We combined the multiple raw files into single data set following this steps:**
+**We combined the multiple raw files into single data set following these steps:**
 
 1. Vertically merge the training and test data, subject data and activity data
 2. Select a subset of the measurement columns. 
@@ -47,14 +47,14 @@ The output data of this project is a single .txt file that follows the principle
 
                 Descriptive names for the sixty six variables selected for the tidy data set 
                 (variables that expose both Mean and Standard Deviation in original experiment).
-				They are similar to: 
-
-                timeBodyAccelerometerMeanX				
-				timeBodyAccelerometerStdY				
-				timeGravityAccelerometerMeanZ
-				timeBodyGyroscopeMeanX
-				timeBodyGyroscopeMagnitudeMean
-				timeBodyGyroscopeMagnitudeStd
+		They are similar to:
+		
+		timeBodyAccelerometerMeanX				
+		timeBodyAccelerometerStdY				
+		timeGravityAccelerometerMeanZ
+		timeBodyGyroscopeMeanX
+		timeBodyGyroscopeMagnitudeMean
+		timeBodyGyroscopeMagnitudeStd
                 
 **Average**     NUMERIC
 
@@ -66,8 +66,6 @@ The output data of this project is a single .txt file that follows the principle
 
 REFERENCE
 ---------
-
-For more details, please consult original reference below describing the purpose of the experiment and its original data set.
 
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
