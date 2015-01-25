@@ -47,14 +47,14 @@ The output data of this project is a single .txt file that follows the principle
 
                 Descriptive names for the sixty six variables selected for the tidy data set 
                 (variables that expose both Mean and Standard Deviation in original experiment).
-		They are similar to:
-		
-		timeBodyAccelerometerMeanX				
-		timeBodyAccelerometerStdY				
-		timeGravityAccelerometerMeanZ
-		timeBodyGyroscopeMeanX
-		timeBodyGyroscopeMagnitudeMean
-		timeBodyGyroscopeMagnitudeStd
+                They are similar to:
+                
+                timeBodyAccelerometerMeanX
+                timeBodyAccelerometerStdY
+                timeGravityAccelerometerMeanZ
+                timeBodyGyroscopeMeanX
+                timeBodyGyroscopeMagnitudeMean
+                timeBodyGyroscopeMagnitudeStd
                 
 **Average**     NUMERIC
 
